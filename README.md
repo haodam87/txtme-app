@@ -1,8 +1,11 @@
-# Getting Started with Create React App
+# TxtMe-App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+* **Live link:**
+https://txtme-app-679f6.web.app/
+
+![](/imgs/preview.png)
+
 
 In the project directory, you can run:
 
